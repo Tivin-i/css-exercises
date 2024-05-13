@@ -1,0 +1,9 @@
+body {
+
+    div {
+        background-color: red;
+        color: white;
+        text-align: center;
+        font-size: 64px;
+    }
+}
